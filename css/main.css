@@ -34,6 +34,14 @@ main {
   grid-gap: 2rem;
 }
 
+.left-sidebar {
+  grid-column: 1 / 2;
+  background-color: beige;
+}
+
+.main-content{
+  grid-column: 2 / 3;
+}
 
 
 /*
