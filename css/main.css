@@ -16,6 +16,7 @@ html {
   font-size: 1em;
   line-height: 1.4;
   padding: 1rem;
+  background-color: #999;
 }
 
 img {
@@ -23,6 +24,16 @@ img {
   height: auto;
   padding: 1.5rem;
 }
+
+main {
+  width: 80vw;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: min-content;
+  grid-gap: 2rem;
+}
+
 
 
 /*
