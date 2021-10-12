@@ -1,0 +1,53 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Amanda Guo | Core Interaction X1 FA21</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <meta property="og:title" content="">
+    <meta property="og:type" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+  
+    <link rel="manifest" href="../site.webmanifest">
+    <link rel="apple-touch-icon" href="../icon.png">
+    <!-- Place favicon.ico in the root directory -->
+  
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/main.css">
+  
+    <meta name="theme-color" content="#fafafa">
+  </head>
+
+<body>
+
+  <main class="type-sample">
+
+    <section class="intro-block">
+      <h1>De Brevitate Vitae (On the Shortness of Life)</h1>
+      <h3>Lucius Annaeus Seneca</h3>
+    </section>
+  
+  
+      <section class="article">
+        <P>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing. So it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it… Life is long if you know how to use it.</P>
+<p class="pull-quote">“It is more civilized to make fun of life than to bewail it.”</p>
+  </section>
+    </main>
+
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+
+</html>
